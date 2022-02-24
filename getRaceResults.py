@@ -4,7 +4,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 # take in the link to get results from, and the csv name INCLUDING the .csv extension
-def raceResults(link, csvName):
+def raceResults(link, csvName, year):
     # Making a GET request
     data = requests.get(link).text
 
@@ -34,7 +34,7 @@ def raceResults(link, csvName):
             df.loc[i-1] = rows
 
     # Output Race Results to a CSV
-    df.to_csv(csvName, index = False)
+    df.to_csv('./' + year + '/' + csvName, index = False)
 
 
 
