@@ -34,7 +34,7 @@ def raceResults(link, csvName, year):
             df.loc[i-1] = rows
 
     # Output Race Results to a CSV
-    df.to_csv('./' + year + '/' + csvName, index = False)
+    df.to_csv('./450SX/' + year + '/' + csvName, index = False)
 
 
 
