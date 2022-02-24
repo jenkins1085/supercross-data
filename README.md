@@ -1,8 +1,12 @@
 # supercross-data
-STEPS
-* Scrape data from Main Event results, and store it in a database. [Example URL](https://www.supercrosslive.com/results/current/2022/S2235/S1F1RES.html).
-* Scrape data from multiple Main Events, expand the database.
-* Seperate into 450 and 250 Main Events.
-* Include the Heat Races and LCQ's for each round.
-* Get season point standings by round.
+## COMPLETED
+* Results for 2013-2022 Main Events for both 450SX and 250SX
+## DATABASE STEPS
+* Triple Crown Races, Heat Races, Semi's, and LCQ's
+* End of Season Data
+* Points By Round
+* Specific Rider History
+
+## FUTURE PLANS
+Once I have all the data I want, begin to display it in meaningful ways :)
 
