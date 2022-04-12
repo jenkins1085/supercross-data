@@ -1,18 +1,18 @@
 import getRaceResults
 
 # 2022
-getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2205/S1F1PRESS.html', 'r1_anaheim1.csv', '2022', '450')
-getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2210/S1F1PRESS.html', 'r2_oakland.csv', '2022', '450')
-getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2215/S1F1PRESS.html', 'r3_san diego.csv', '2022', '450')
-getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2220/S1F1PRESS.html', 'r4_anaheim2.csv', '2022', '450')
-getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2225/S1F1PRESS.html', 'r5_glendale.csv', '2022', '450') # triple crown
-getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2230/S1F1PRESS.html', 'r6_anaheim3.csv', '2022', '450')
-getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2235/S1F1PRESS.html', 'r7_minneapolis.csv', '2022', '450')
-getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2240/S1F1PRESS.html', 'r8_arlington.csv', '2022', '450')
-getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2245/S1F1PRESS.html', 'r9_daytona.csv', '2022', '450')
-getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2250/S1F1PRESS.html', 'r10_detroit.csv', '2022', '450')
-getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2255/S1F1PRESS.html', 'r11_indianapolis.csv', '2022', '450')
-getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2260/S1F1PRESS.html', 'r12_seattle.csv', '2022', '450')
+# getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2205/S1F1PRESS.html', 'r1_anaheim1.csv', '2022', '450')
+# getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2210/S1F1PRESS.html', 'r2_oakland.csv', '2022', '450')
+# getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2215/S1F1PRESS.html', 'r3_san diego.csv', '2022', '450')
+# getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2220/S1F1PRESS.html', 'r4_anaheim2.csv', '2022', '450')
+# getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2225/S1F1PRESS.html', 'r5_glendale.csv', '2022', '450') # triple crown
+# getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2230/S1F1PRESS.html', 'r6_anaheim3.csv', '2022', '450')
+# getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2235/S1F1PRESS.html', 'r7_minneapolis.csv', '2022', '450')
+# getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2240/S1F1PRESS.html', 'r8_arlington.csv', '2022', '450')
+# getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2245/S1F1PRESS.html', 'r9_daytona.csv', '2022', '450')
+# getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2250/S1F1PRESS.html', 'r10_detroit.csv', '2022', '450')
+# getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2255/S1F1PRESS.html', 'r11_indianapolis.csv', '2022', '450')
+# getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2260/S1F1PRESS.html', 'r12_seattle.csv', '2022', '450')
 # getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2265/S1F1PRESS.html', 'r13_stlouis.csv', '2022', '450')
 # getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2270/S1F1PRESS.html', 'r14_atlanta.csv', '2022', '450')
 # getRaceResults.raceResults('https://www.supercrosslive.com/results/current/2022/S2275/S1F1PRESS.html', 'r15_foxborough.csv', '2022', '450')
