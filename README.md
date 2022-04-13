@@ -10,3 +10,6 @@
 ## FUTURE PLANS
 Once I have all the data I want, begin to display it in meaningful ways :)
 
+## React Tutorial I am using
+
+https://www.geeksforgeeks.org/how-to-create-a-multi-page-website-using-react-js/
